@@ -1,4 +1,4 @@
-//Create the portfolio module
+//Task 2: Create the portfolio module
 import { assets } from './asset.js'; //import assets array from assets.js
 
 export function calculatePortfolioValue() { //function calulates total value of portfolio
