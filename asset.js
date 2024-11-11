@@ -7,4 +7,3 @@ export const assets = [ //assets array
 export function getAssetById(id) { //function to export asset based on unique id
     return assets.find(asset => asset.id === id); //finds asset's id and returns match
 }
- 
